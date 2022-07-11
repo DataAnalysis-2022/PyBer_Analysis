@@ -14,7 +14,7 @@ The ride data clearly shows the difference based on city type of Rural, Suburban
 
 
 
-![ride_data_summary](D:\Data_Analysis_Visualization\Module-5\PyBer_Analysis\Resources\PyBer_ride_summary_by_city_type.PNG)
+![ride_data_summary](Resources\PyBer_ride_summary_by_city_type.PNG)
 
 
 
@@ -22,7 +22,7 @@ The total weekly fare in the period of January, 2019 to April, 2019 is shown in 
 
 
 
-![](D:\Data_Analysis_Visualization\Module-5\PyBer_Analysis\Resources\PyBer_fare_summary.png)
+![](analysis\PyBer_fare_summary.png)
 
 
 
